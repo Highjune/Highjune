@@ -1,6 +1,7 @@
-### Hi I'm June
+### Hi I'm June 👦
 
-These days, I'm between jobs. I want to be a Web Programmer.
+These days, I'm between jobs.📗
+I want to be a Web Programmer.
 Programming is so amazing and interesting.
 I am using this github homepage like my programming study timeline.
 Thank u :)
