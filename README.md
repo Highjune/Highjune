@@ -2,9 +2,11 @@
 
 These days, I'm between jobs.📗
 I want to be a Web Programmer.
-Programming is so amazing and interesting.
+Programming is so amazing and interesting. And I like Sports^^
 I am using this github homepage like my programming study timeline.
 Thank u :)
+
+
 
 
 
