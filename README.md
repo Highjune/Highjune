@@ -7,7 +7,7 @@ I am using this github homepage like my programming study timeline.
 Thank u :)
 
 
-![Macintosh.png](/images/Macintosh.png)
+![Macintosh.png](./images/Macintosh.png)
 
 
 
