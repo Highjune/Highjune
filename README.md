@@ -1,8 +1,7 @@
 ### Hi I'm June 👦
 
-These days, I'm between jobs.📗
-I want to be a Web Programmer.
-Programming is so amazing and interesting. And I like Sports^^
+I'm working at the IT company.
+My position is backend-developer. For me, Softerware programming is only way to relieve my stress with sports.
 I am using this github homepage like my programming study timeline.
 Thank u :)
 
