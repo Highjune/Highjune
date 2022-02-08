@@ -1,9 +1,6 @@
-### Hi I'm June 👦
+### Hi I'm Highjune 👦
 
-I'm working at the IT company🏦.
-My position is backend-developer💻. For me, Softerware programming is only way to relieve my stress with sports🎾.
-I am using this github homepage like my programming study timeline.💾
-Thank u :)
+Just keep going.
 
 
 <!--
