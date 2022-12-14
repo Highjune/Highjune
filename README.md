@@ -1,8 +1,9 @@
 ### Hi I'm Highjune 👦
 
 Just keep going.
-Backend Developer.
-java/spring
+- Backend Developer
+- Java/Spring
+
 
 <!--
 ![Macintosh.png](./images/Macintosh.png)
