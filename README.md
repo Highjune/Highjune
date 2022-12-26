@@ -5,9 +5,9 @@ Just keep going.
 - Java/Spring
 
 
-<!--
+
 ![Macintosh.png](./images/Macintosh.png)
--->
+
 
 
 <!--
