@@ -1,7 +1,7 @@
 ### Hi I'm Highjune 👦
 
 Just keep going.
-- Backend Developer
+- Backend Web Developer
 - Java/Spring
 
 
