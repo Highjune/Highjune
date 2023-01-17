@@ -4,12 +4,6 @@ Just keep going.
 - Backend Web Developer
 - Java/Spring
 
-
-
-![Macintosh.png](./images/Macintosh.png)
-
-
-
 <!--
 **Highjune/Highjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
