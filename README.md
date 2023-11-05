@@ -1,6 +1,6 @@
 # Hi I'm kangjune 👦
 
-- purse `patience`|`persistence`|`interest`
+- purse `interest`|`curiosity`|`persistence`|`patience`|
 
 
 ## 📖 Tech Stack
