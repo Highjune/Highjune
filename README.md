@@ -4,9 +4,9 @@
 
 
 ## 📖 Tech Stack
-- 'Java'
-- 'Spring' | 'Spring Boot'
-- 'Mysql'
+- `Java`
+- `Spring` | `Spring Boot`
+- `Mysql`
   
 
 ## 🧐 These day's interets
