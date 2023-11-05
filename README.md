@@ -3,7 +3,7 @@
 - purse `interest`|`curiosity`|`persistence`|`patience`|
 
 
-## 📖 Tech Stack
+## 📖 Tech
 - `Java`
 - `Spring` | `Spring Boot`
 - `Mysql`
@@ -14,7 +14,7 @@
 - infra
 
 
-## 🏢 Work
+## 🏢 Work History
 - **Vendys** 식권대장 mobile app
   - `2022.01 ~ Current`
 
